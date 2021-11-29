@@ -3,6 +3,11 @@
 /.env.staging
 /.env.staging.db
 
+# IntellijIdea files
+*.iml
+.idea
+out
+
 # virtualenv
 .venv
 venv/

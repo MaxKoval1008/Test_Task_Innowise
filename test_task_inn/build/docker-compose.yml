@@ -7,7 +7,7 @@ services:
       - "6379:6379"
 #  web:
 #    # Берем Dockerfile из каталога app
-#    build: ../backend
+#    build: ../back-dev
 #    # Запускаем тестовый сервер
 #    command: python manage.py runserver 0.0.0.0:8000
 #    # куда будут помещены данные из каталога app
